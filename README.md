@@ -32,7 +32,3 @@ Ajuste as credenciais de conexão no início do arquivo app.py (host, user, pass
 Execute o programa:
 
 python app.py
-💡 Possíveis melhorias futuras
-Adicionar validação de e-mail e campos obrigatórios
-Separar as configurações de conexão em um arquivo próprio
-Transformar em uma API REST usando Flask ou FastAPI
